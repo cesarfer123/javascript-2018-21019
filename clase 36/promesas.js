@@ -21,7 +21,7 @@ const emails = [
     },
     {
         id: 2,
-        email: 'laura@gmail.com'
+        email: 'lauraa@gmail.com'
     }
 ]
 
@@ -37,7 +37,7 @@ const getUser=(id)=>{
     })
 
     return promise
-
+ 
 }
 
 const getEmail=(user)=>{
